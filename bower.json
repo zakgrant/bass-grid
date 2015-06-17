@@ -1,0 +1,24 @@
+{
+  "name": "bass-grid",
+  "version": "0.0.1",
+  "homepage": "https://github.com/timpotter/bass-grid",
+  "authors": [
+    "Tim Potter <tim@littlethunder.co>"
+  ],
+  "description": "A smart, lightweight responsive grid, built with Sass",
+  "keywords": [
+    "grid",
+    "sass",
+    "responsive",
+    "smart",
+    "lightweight"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
